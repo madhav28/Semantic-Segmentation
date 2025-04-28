@@ -24,7 +24,7 @@
 
 **Final Layer**: Conv1x1 → 5 output channels
 
-![Model Architecture](./model_architecture.png){:height="300px"}
+<img src="./model_architecture.png" width="400" />
 
 ## 2. Training Configuration
 ```python
